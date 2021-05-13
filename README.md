@@ -1,1 +1,3 @@
 # Orphanage_Management_System
+# About
+This website acts as a manager for an orphanage. The website provides a login option for the user where the user can check the recent events happening in the orphanage and choose to register for them.The user can also donate to the orphanage. The orphanage provides the user to view his past donations and total donations uptil now. If an user has registered to a particular event,the user will be notified one day before the event starts. XAMPP server is used to host the system.HTML and CSS is used to design the website while PHP is used for backend purposes.
